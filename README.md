@@ -9,3 +9,5 @@
  <div style="display: inline_block"><br>
   <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
+
+![Snake animation](https://github.com/lkunrath/lkunrath/blob/output/github-vontribution-grid-snake.svg)
